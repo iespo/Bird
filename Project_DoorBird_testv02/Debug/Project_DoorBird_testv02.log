@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\!doc\!prg\visualstudio\test\myprobe\doorbird\project_doorbird_testv02\project_doorbird_testv02\main.cpp(124): warning C4101: "par": Unreferenzierte lokale Variable
+g:\!doc\!prg\visualstudio\test\myprobe\doorbird\project_doorbird_testv02\project_doorbird_testv02\main.cpp(178): warning C4101: "param": Unreferenzierte lokale Variable
+  Project_DoorBird_testv02.vcxproj -> G:\!DOC\!PRG\VisualStudio\test\MyProbe\DoorBird\Project_DoorBird_testv02\Debug\Project_DoorBird_testv02.exe
